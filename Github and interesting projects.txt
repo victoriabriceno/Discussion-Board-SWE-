@@ -1,0 +1,30 @@
+1. https://github.com/kamranahmedse/developer-roadmap
+A developer roadmap is like a community effort to create guides, roadmaps, and other content that help developers
+pick their path and guide their learnings. The author of this repository is remarkable because he has a file called readme, where he said if you want to contribute or add a new one, you have to reach out to his Twitter.
+When they openly invite you to work or suggest recent changes, it is fantastic for the user to feel like they are doing
+something incredible for the project. I think this is a worthwhile project because, as a programmer, you are always learning
+new things, which will help you find good resources to help you.
+
+2.https://github.com/matheusfelipeog/beautiful-docs
+Like a developer, you always write code, and documentation is a crucial part of any software project
+. When it comes to writing documented code and presenting it, it has another meaning. This project has cool things because
+the author took his time to collect terms of structure, design, styling, diagrams, etc. Any user who doesn't know and
+needs inspiration can go to the link and read the file"README.MD"' and find what they need.
+
+3.https://github.com/sdmg15/Best-websites-a-programmer-should-visit
+This project is a site that you can visit when you have trouble or don't know what to do. I like
+this project because it has Youtube channels, websites for when you get stuck, news, etc.
+ It is beneficial for programmers like us because sometimes we have doubts about what we can do, so what better to have good resources and solve those questions.
+
+4.https://github.com/leereilly/games
+Well, this is more a list than a project but contains open source games and projects that you play. I really like it
+because the author of the list has an option where you can contribute and add a game or project that you want 
+to show. For me, it is really cool because basically, all my classmates are from the game development, and I think this is 
+going to be useful for them maybe when they want to submit a game.
+
+5.https://github.com/github/gitignore/blob/main/Android.gitignore
+This is a new term that we saw in class, and this gitignore is for Android studios. I chose this gitignore because Android studios 
+are what I am going to use for my midterm project, so it is important to understand what this file does and what it has
+inside. What I can see in this gitignore  in the comments is that it is going to ignore files and folders generated from Android
+Studios, Local configuration files like SDK path, etc. I personally think that this gitignore is going to be useful when it comes to doing 
+the midterm with my team because some files are really hard to find and take more process.
